@@ -1,5 +1,5 @@
-ABAARSO TECH SYSTEM
-ATU Finance Registration System
+ABAARSO-TECH Finance Registration System
+
 Overview
 The ATU Finance Registration System is a web-based application designed for managing student registrations and finance processes for academic institutions. This system allows administrators (both in the registration and finance offices) to manage student registrations, verify fee payments, and generate financial reports.
 

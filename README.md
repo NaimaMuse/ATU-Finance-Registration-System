@@ -16,5 +16,7 @@ PDF Reports: Generate financial and student reports for administrative purposes.
 Technologies Used
 
 Backend: PHP, MySQL (or any other database system you may have used)
+
 Frontend: HTML, CSS
+
 Database: MySQL (for student records, payments, etc.)
